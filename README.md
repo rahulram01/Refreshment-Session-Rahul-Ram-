@@ -1,4 +1,6 @@
+# Assignment: Login and Table Pages
 
+This project consists of two main components: login forms and table pages. Below, you will find descriptions of each component along with screenshots.
 
 ## Description
 
@@ -43,15 +45,12 @@ The table pages display structured data in a tabular format. Each table includes
 ## Screenshots
 
 ### Login Forms
-Login Form 1[image](https://github.com/rahulram01/Refreshment-Session-Rahul-Ram-/assets/98167864/bd009504-6d2e-46eb-9aa4-523eaebb0376)
-
-Login Form 2[image](https://github.com/rahulram01/Refreshment-Session-Rahul-Ram-/assets/98167864/e227302b-ee72-425f-8160-315746b32e2a)
-
+![Login Form 1](https://github.com/rahulram01/Refreshment-Session-Rahul-Ram-/assets/98167864/bd009504-6d2e-46eb-9aa4-523eaebb0376)
+![Login Form 2](https://github.com/rahulram01/Refreshment-Session-Rahul-Ram-/assets/98167864/e227302b-ee72-425f-8160-315746b32e2a)
 
 ### Table Pages
-Table Page 1[image](https://github.com/rahulram01/Refreshment-Session-Rahul-Ram-/assets/98167864/5b592dad-2b3e-4044-8d85-acc127d1c3d3)
+![Table Page 1](https://github.com/rahulram01/Refreshment-Session-Rahul-Ram-/assets/98167864/5b592dad-2b3e-4044-8d85-acc127d1c3d3)
+![Table Page 2](https://github.com/rahulram01/Refreshment-Session-Rahul-Ram-/assets/98167864/95da0fb3-059f-45d1-84f5-9d78653346b5)
 
-Table Page 2[image](https://github.com/rahulram01/Refreshment-Session-Rahul-Ram-/assets/98167864/95da0fb3-059f-45d1-84f5-9d78653346b5)
-
-
-
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
